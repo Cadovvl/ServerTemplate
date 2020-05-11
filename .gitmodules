@@ -1,0 +1,6 @@
+[submodule "submodule/json"]
+	path = submodule/json
+	url = https://github.com/nlohmann/json
+[submodule "submodule/poco"]
+	path = submodule/poco
+	url = https://github.com/pocoproject/poco
