@@ -1,5 +1,10 @@
 # ServerTemplate
 Template server for other projects
+
+# Requirements:
+- CMake >= 3.5.1
+- g++ 
+
 # Clone: 
 ```
 git clone --recurse-submodules https://github.com/Cadovvl/ServerTemplate.git
